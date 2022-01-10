@@ -1,0 +1,6 @@
+version: "3.7"
+services:
+   bb-app:
+     image: koteswararao221/getting-started
+     ports:
+       - 3000:3000
